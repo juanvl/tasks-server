@@ -1,3 +1,4 @@
 node_modules
-.env
+.env.js
 *.log
+package-lock.json
